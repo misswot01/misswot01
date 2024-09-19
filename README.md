@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @misswot01
+- 👋 Hi, I’m @misswot
 - 👀 I’m interested in developing websites
-- 🌱 I’m currently learning to be a front-end developer
+- 🌱 I’m currently learning to be a front-end software engineer
 - 😄 Pronouns: ...She/Her/Hers
 - ⚡ Fun fact: ... discovering new recipes
 
